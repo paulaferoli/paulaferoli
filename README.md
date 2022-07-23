@@ -1,9 +1,9 @@
 ## Olá, eu sou a Paula Ferreira!
 
 <div align="center">
-  <a href="https://github.com/paulaferoli">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulaferoli&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaferoli&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/paulaferreirao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulaferreirao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulaferreirao&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -21,10 +21,10 @@
 <div>
   <a href="https://www.linkedin.com/in/paulaferoli/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/eualuap" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/f_aluap/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/paulaferreirao/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCMHyM_0AuyCCFi9G5CNXp4w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/paulaferoli/paulaferoli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paulaferreirao/paulaferreirao/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
